@@ -40,6 +40,7 @@ import me.poma123.globalwarming.tasks.SlownessTask;
 
 import net.guizhanss.guizhanlib.updater.GuizhanBuildsUpdater;
 
+@SuppressWarnings("deprecation")
 public class GlobalWarmingPlugin extends JavaPlugin implements SlimefunAddon {
 
     private static GlobalWarmingPlugin instance;

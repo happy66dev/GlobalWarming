@@ -14,6 +14,7 @@ import me.mrCookieSlime.Slimefun.Objects.SlimefunItem.abstractItems.AContainer;
 import me.poma123.globalwarming.GlobalWarmingPlugin;
 import me.poma123.globalwarming.Items;
 
+@SuppressWarnings("deprecation")
 public abstract class AirCompressor extends AContainer implements RecipeDisplayItem {
 
     public static final RecipeType RECIPE_TYPE = new RecipeType(

@@ -30,6 +30,7 @@ import me.poma123.globalwarming.api.PollutionManager;
 import me.poma123.globalwarming.api.TemperatureType;
 import me.poma123.globalwarming.api.events.AsyncWorldPollutionChangeEvent;
 
+@SuppressWarnings("deprecation")
 public class PollutionListener implements Listener {
 
     private static final int BROADCAST_COOLDOWN = 60000;

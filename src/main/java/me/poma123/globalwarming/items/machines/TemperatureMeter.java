@@ -24,6 +24,7 @@ import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
 import me.poma123.globalwarming.api.TemperatureType;
 
+@SuppressWarnings("deprecation")
 public abstract class TemperatureMeter extends SlimefunItem implements HologramOwner {
 
     @ParametersAreNonnullByDefault
