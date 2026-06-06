@@ -1,4 +1,4 @@
-# GlobalWarming 全球变暖
+# GlobalWarming 全球变暖 [魔改版]
 
 这个 Slimefun 附属插件致力于向游戏添加环境变化机制。
 
@@ -130,3 +130,7 @@
 ## API
 
 你可以在 [`me.poma123.globalwarming.api`](https://github.com/poma123/GlobalWarming/tree/master/src/main/java/me/poma123/globalwarming/api) 包中找到完整的API文档。
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=happy66dev/GlobalWarming&type=Date)](https://star-history.com/#happy66dev/GlobalWarming&Date)
